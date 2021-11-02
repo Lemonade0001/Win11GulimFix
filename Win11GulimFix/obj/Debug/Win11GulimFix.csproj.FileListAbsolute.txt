@@ -1,0 +1,10 @@
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\bin\Debug\Win11GulimFix.exe.config
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\bin\Debug\Win11GulimFix.exe
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\bin\Debug\Win11GulimFix.pdb
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\obj\Debug\Win11GulimFix.csproj.AssemblyReference.cache
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\obj\Debug\Win11GulimFix.Properties.Resources.resources
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\obj\Debug\Win11GulimFix.csproj.GenerateResource.cache
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\obj\Debug\Win11GulimFix.csproj.CoreCompileInputs.cache
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\obj\Debug\Win11GulimFix.exe
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\obj\Debug\Win11GulimFix.pdb
+C:\Users\Jeon\source\repos\Win11GulimFix\Win11GulimFix\obj\Debug\Win11GulimFix.Main.resources
